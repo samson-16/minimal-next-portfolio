@@ -4,7 +4,7 @@ export const siteConfig = {
   username: "samson-16",
   description:
     "Samson's portfolio - A modern, responsive Next.js portfolio for developers. ",
-  // url: "https://nbarkiya.xyz",
+  url: "https://samied.tech",
   links: {
     github: "https://github.com/samson-16",
     linkedin: "https://www.linkedin.com/in/samson-demessie-99a282191/",
