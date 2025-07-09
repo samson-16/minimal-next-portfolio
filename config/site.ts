@@ -1,13 +1,14 @@
 export const siteConfig = {
-  name: "Naman Barkiya | Developer Portfolio",
-  authorName: "Naman Barkiya",
-  username: "namanbarkiya",
+  name: "Samson Demessie | Developer Portfolio",
+  authorName: "Samson Demessie",
+  username: "samson-16",
   description:
-    "Naman Barkiya's portfolio - A modern, responsive Next.js portfolio for developers. This open-source template can be customized to showcase your own skills, projects, and professional experience.",
-  url: "https://nbarkiya.xyz",
+    "Samson's portfolio - A modern, responsive Next.js portfolio for developers. ",
+  // url: "https://nbarkiya.xyz",
   links: {
-    twitter: "https://x.com/namanbarkiya",
-    github: "https://github.com/namanbarkiya",
+    github: "https://github.com/samson-16",
+    linkedin: "https://www.linkedin.com/in/samson-demessie-99a282191/",
+    email: "samsondemessie@gmail.com",
   },
   ogImage: "https://nbarkiya.xyz/naman-img.jpg",
   iconIco:
@@ -15,7 +16,7 @@ export const siteConfig = {
   logoIcon:
     "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357294/assets/naman-logo.png",
   keywords: [
-    "Naman Barkiya",
+    "Samson Demessie",
     "Full Stack Developer",
     "Web Developer Portfolio",
     "Next.js portfolio template",
@@ -26,17 +27,6 @@ export const siteConfig = {
     "Modern portfolio website",
     "Frontend developer portfolio",
     "Full stack developer portfolio",
-    "Open source portfolio template",
-    "Web developer portfolio template",
-    "Responsive portfolio template",
-    "React.js portfolio",
-    "Tailwind CSS portfolio",
-    "Developer showcase template",
-    "Free portfolio template",
-    "Next.js 13 template",
-    "Shadcn UI template",
-    "Career timeline template",
-    "Portfolio with dark mode",
-    "GitHub portfolio template",
+    "Software Engineer",
   ],
 };
